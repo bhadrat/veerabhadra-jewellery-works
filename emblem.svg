@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6 -8 212 214" role="img" aria-label="VB ring emblem">
+<defs>
+<linearGradient id="goldh" gradientUnits="userSpaceOnUse" x1="10" y1="10" x2="190" y2="190">
+<stop offset="0" stop-color="#8A6420"></stop>
+<stop offset="0.28" stop-color="#E8C374"></stop>
+<stop offset="0.46" stop-color="#FFF0C4"></stop>
+<stop offset="0.62" stop-color="#D3A247"></stop>
+<stop offset="0.82" stop-color="#9C7128"></stop>
+<stop offset="1" stop-color="#E2B964"></stop>
+</linearGradient>
+<radialGradient id="glowh" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#F3CF7E" stop-opacity="0.22"></stop><stop offset="1" stop-color="#F3CF7E" stop-opacity="0"></stop></radialGradient>
+<linearGradient id="iceh" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#FFFFFF"></stop>
+<stop offset="0.5" stop-color="#E4EEF5"></stop>
+<stop offset="1" stop-color="#B9C9D6"></stop>
+</linearGradient>
+</defs>
+<circle cx="100" cy="100" r="104" fill="url(#glowh)"></circle>
+<circle cx="100" cy="100" r="90" fill="none" stroke="url(#goldh)" stroke-width="3.5"></circle>
+<circle cx="100" cy="100" r="78" fill="none" stroke="url(#goldh)" stroke-width="1.2"></circle>
+<circle cx="141.84" cy="15.16" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="147.30" cy="18.07" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="152.56" cy="21.34" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="157.59" cy="24.95" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="162.37" cy="28.88" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="166.89" cy="33.11" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="171.12" cy="37.63" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="175.05" cy="42.41" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="178.66" cy="47.44" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="181.93" cy="52.70" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="184.84" cy="58.16" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="187.40" cy="63.80" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="189.58" cy="69.59" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="191.38" cy="75.52" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="192.78" cy="81.54" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="193.79" cy="87.65" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="194.40" cy="93.81" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="194.60" cy="100.00" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="194.40" cy="106.19" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="193.79" cy="112.35" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="192.78" cy="118.46" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="191.38" cy="124.48" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="189.58" cy="130.41" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="187.40" cy="136.20" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="184.84" cy="141.84" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="181.93" cy="147.30" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="178.66" cy="152.56" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="175.05" cy="157.59" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="171.12" cy="162.37" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="166.89" cy="166.89" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="162.37" cy="171.12" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="157.59" cy="175.05" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="152.56" cy="178.66" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="147.30" cy="181.93" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="141.84" cy="184.84" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="136.20" cy="187.40" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="130.41" cy="189.58" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="124.48" cy="191.38" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="118.46" cy="192.78" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="112.35" cy="193.79" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="106.19" cy="194.40" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="100.00" cy="194.60" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="93.81" cy="194.40" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="87.65" cy="193.79" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="81.54" cy="192.78" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="75.52" cy="191.38" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="69.59" cy="189.58" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="63.80" cy="187.40" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="58.16" cy="184.84" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="52.70" cy="181.93" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="47.44" cy="178.66" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="42.41" cy="175.05" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="37.63" cy="171.12" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="33.11" cy="166.89" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="28.88" cy="162.37" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="24.95" cy="157.59" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="21.34" cy="152.56" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="18.07" cy="147.30" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="15.16" cy="141.84" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="12.60" cy="136.20" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="10.42" cy="130.41" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="8.62" cy="124.48" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="7.22" cy="118.46" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="6.21" cy="112.35" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="5.60" cy="106.19" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="5.40" cy="100.00" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="5.60" cy="93.81" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="6.21" cy="87.65" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="7.22" cy="81.54" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="8.62" cy="75.52" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="10.42" cy="69.59" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="12.60" cy="63.80" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="15.16" cy="58.16" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="18.07" cy="52.70" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="21.34" cy="47.44" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="24.95" cy="42.41" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="28.88" cy="37.63" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="33.11" cy="33.11" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="37.63" cy="28.88" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="42.41" cy="24.95" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="47.44" cy="21.34" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="52.70" cy="18.07" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="58.16" cy="15.16" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="100.00" cy="25.40" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="106.50" cy="25.68" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="112.95" cy="26.53" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="119.31" cy="27.94" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="125.51" cy="29.90" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="131.53" cy="32.39" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="137.30" cy="35.39" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="142.79" cy="38.89" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="147.95" cy="42.85" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="152.75" cy="47.25" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="157.15" cy="52.05" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="161.11" cy="57.21" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="164.61" cy="62.70" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="167.61" cy="68.47" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="170.10" cy="74.49" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="172.06" cy="80.69" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="173.47" cy="87.05" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="174.32" cy="93.50" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="174.60" cy="100.00" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="174.32" cy="106.50" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="173.47" cy="112.95" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="172.06" cy="119.31" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="170.10" cy="125.51" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="167.61" cy="131.53" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="164.61" cy="137.30" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="161.11" cy="142.79" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="157.15" cy="147.95" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="152.75" cy="152.75" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="147.95" cy="157.15" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="142.79" cy="161.11" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="137.30" cy="164.61" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="131.53" cy="167.61" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="125.51" cy="170.10" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="119.31" cy="172.06" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="112.95" cy="173.47" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="106.50" cy="174.32" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="100.00" cy="174.60" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="93.50" cy="174.32" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="87.05" cy="173.47" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="80.69" cy="172.06" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="74.49" cy="170.10" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="68.47" cy="167.61" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="62.70" cy="164.61" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="57.21" cy="161.11" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="52.05" cy="157.15" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="47.25" cy="152.75" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="42.85" cy="147.95" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="38.89" cy="142.79" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="35.39" cy="137.30" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="32.39" cy="131.53" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="29.90" cy="125.51" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="27.94" cy="119.31" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="26.53" cy="112.95" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="25.68" cy="106.50" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="25.40" cy="100.00" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="25.68" cy="93.50" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="26.53" cy="87.05" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="27.94" cy="80.69" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="29.90" cy="74.49" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="32.39" cy="68.47" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="35.39" cy="62.70" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="38.89" cy="57.21" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="42.85" cy="52.05" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="47.25" cy="47.25" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="52.05" cy="42.85" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="57.21" cy="38.89" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="62.70" cy="35.39" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="68.47" cy="32.39" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="74.49" cy="29.90" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="80.69" cy="27.94" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="87.05" cy="26.53" r="0.95" fill="url(#goldh)"></circle>
+<circle cx="93.50" cy="25.68" r="0.95" fill="url(#goldh)"></circle>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(30 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(45 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(60 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(75 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(90 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(105 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(120 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(135 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(150 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(165 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(180 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(195 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(210 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(225 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(240 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(255 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(270 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(285 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(300 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(315 100 100)"></polygon>
+<polygon points="100,10.5 103.2,14.5 100,18.5 96.8,14.5" fill="url(#iceh)" transform="rotate(330 100 100)"></polygon>
+<polygon points="86,-2 114,-2 124,9 100,34 76,9" fill="url(#iceh)" stroke="url(#goldh)" stroke-width="2.2" stroke-linejoin="round"></polygon>
+<polyline points="76,9 124,9" fill="none" stroke="#9FB2C2" stroke-width="1"></polyline>
+<polyline points="86,-2 93,9 100,-2 107,9 114,-2" fill="none" stroke="#9FB2C2" stroke-width="1"></polyline>
+<polyline points="93,9 100,34 107,9" fill="none" stroke="#9FB2C2" stroke-width="1"></polyline>
+<g transform="translate(44.9 69.4) scale(1.08)">
+<polygon points="0,0 11,0 24,48 37,0 48,0 30,64 18,64" fill="url(#goldh)" stroke="#6E4E16" stroke-width="1.1" stroke-linejoin="miter"></polygon>
+<line x1="2.5" y1="2" x2="19" y2="61" stroke="#FFF4D6" stroke-opacity="0.6" stroke-width="1"></line>
+<polygon points="24,9 30,18 24,27 18,18" fill="url(#iceh)"></polygon>
+<line x1="18" y1="18" x2="30" y2="18" stroke="#9FB2C2" stroke-width="0.7"></line>
+<path d="M62.5 4.5 V59.5 M58 4.5 H80 A13 13 0 0 1 80 30.5 H62.5 M62.5 30.5 H83 A14.5 14.5 0 0 1 83 59.5 H58" fill="none" stroke="#6E4E16" stroke-width="10.4" stroke-linejoin="miter"></path>
+<path d="M62.5 4.5 V59.5 M58 4.5 H80 A13 13 0 0 1 80 30.5 H62.5 M62.5 30.5 H83 A14.5 14.5 0 0 1 83 59.5 H58" fill="none" stroke="url(#goldh)" stroke-width="7.6" stroke-linejoin="miter"></path>
+</g>
+<path d="M136 -4 L137.44 2.56 L144 4 L137.44 5.4399999999999995 L136 12 L134.56 5.4399999999999995 L128 4 L134.56 2.56 Z" fill="#FFF7E0"></path><path d="M63 9.5 L63.81 13.19 L67.5 14 L63.81 14.81 L63 18.5 L62.19 14.81 L58.5 14 L62.19 13.19 Z" fill="#FFF7E0"></path><path d="M129 22 L129.54 24.46 L132 25 L129.54 25.54 L129 28 L128.46 25.54 L126 25 L128.46 24.46 Z" fill="#FFF7E0"></path>
+</svg>
